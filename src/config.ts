@@ -19,7 +19,8 @@ export const SITE_TITLE = "Blog Posts";
 export const SITE_DESCRIPTION = "Welcome to my blog!";
 
 // will be used as the icon in the header and the favicon
-export const SITE_FAVICON = "<i class="fa-solid fa-feather"></i>";
+export const SITE_FAVICON = <i className="fa-solid fa-feather"></i>;
+
 
 // will be used in the footer as the name of the author (c) <YEAR> <NAME> - LICENSE
 export const NAME = "flo-bit";
