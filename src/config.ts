@@ -3,23 +3,23 @@ import type { AccentColor, BaseColor } from "./colors";
 // IMPORTANT SET THOSE TWO VARIABLES:
 // NUMBER ONE:
 // if deployed to github pages, set to https://<your-github-username>.github.io/
-export const SITE = "https://flo-bit.dev";
+export const SITE = "https://alexandragrayson.github.io/datatrail-portfolio-template.blog";
 
 // NUMBER TWO:
 // if repo name is <your-github-username>.github.io set to '/'
 // otherwise set to '/<your-repo-name>'
-export const BASE = "/blog-template";
+export const BASE = "/datatrail-portfolio-template.blog";
 
 // MORE SETTINGS:
 
 // will be used for the the title and meta tags and in the header (if SITE_NAME is left blank)
-export const SITE_TITLE = "flo-bit's blog template";
+export const SITE_TITLE = "Blog Posts";
 
 // will be used in the meta tags (and for example shown in search results)
-export const SITE_DESCRIPTION = "Welcome to my blog template! Fork it and make it your own.";
+export const SITE_DESCRIPTION = "Welcome to my blog!";
 
 // will be used as the icon in the header and the favicon
-export const SITE_FAVICON = "🙃";
+export const SITE_FAVICON = "<i class="fa-solid fa-feather"></i>";
 
 // will be used in the footer as the name of the author (c) <YEAR> <NAME> - LICENSE
 export const NAME = "flo-bit";
