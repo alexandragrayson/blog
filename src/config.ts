@@ -19,22 +19,22 @@ export const SITE_TITLE = "Blog Posts";
 export const SITE_DESCRIPTION = "Welcome to my blog!";
 
 // will be used as the icon in the header and the favicon
-export const SITE_FAVICON = <i className="fa-solid fa-feather"></i>;
+export const SITE_FAVICON = "🚀";
 
 
 // will be used in the footer as the name of the author (c) <YEAR> <NAME> - LICENSE
-export const NAME = "flo-bit";
+export const NAME = "DataTrail Student";
 
 // will be used in the footer as the license of the content (e.g. "All right reserved" or "CC-BY-SA 4.0")
 export const LICENSE = "MIT licensed.";
 
 // will be used to identify your bluesky account, so that likes and comments can be shown on your posts
-export const BLUESKY_IDENTIFIER = "flo-bit.dev";
+// export const BLUESKY_IDENTIFIER = "flo-bit.dev";
 
-export const SOURCE_LINK = 'https://github.com/flo-bit/blog-template';
+// export const SOURCE_LINK = 'https://github.com/flo-bit/blog-template';
 
 // will be used to set the base color of the blog
-export const BASE_COLOR: BaseColor = "neutral";
+export const BASE_COLOR: BaseColor = "slate";
 
 // will be used to set the accent color of the blog
 export const ACCENT_COLOR: AccentColor = "cyan";
